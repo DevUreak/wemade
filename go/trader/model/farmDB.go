@@ -1,7 +1,7 @@
 package model
 
 import (
-	"coinmeca-trader/conf"
+
 	"context"
 	"strings"
 
